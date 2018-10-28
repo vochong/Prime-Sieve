@@ -1,7 +1,7 @@
 # Prime-Sieve
 
 Using the Sieve of Eratosthenes algorithm, this simple python program illustrates 3 properties:
-  1)  Linear time complexity
+  1)  Linear time complexity (almost, actually nloglogn)
   2)  Comparison to n/logn approximation
   3)  Asymptotic law of distribution of prime numbers
 
